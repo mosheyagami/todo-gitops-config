@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: todo
-          image: mosheyagami/todoapp:v1.0.2
+          image: mosheyagami/todoapp:v1.1.0
           ports:
             - containerPort: 80
 ---
